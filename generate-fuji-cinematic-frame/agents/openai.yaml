@@ -1,0 +1,7 @@
+interface:
+  display_name: "Fuji Cinematic Collage"
+  short_description: "生成富士胶片电影感拼图、分镜和中英双语字幕成片"
+  default_prompt: "Use $generate-fuji-cinematic-frame to turn my photos or story into a Fuji-inspired cinematic collage with bilingual Chinese-English subtitles."
+
+policy:
+  allow_implicit_invocation: true
